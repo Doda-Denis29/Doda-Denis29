@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doda-Denis29
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science at the West University of Timisoara
 - 📫 How to reach me antiradzlmao@gmail.com
 
 <!---
