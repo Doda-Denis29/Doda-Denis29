@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doda-Denis29
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science at the West University of Timisoara
-- 📫 How to reach me antiradzlmao@gmail.com
+- 📫 How to reach me denis.doda2901@gmail.com
 
 <!---
 Doda-Denis29/Doda-Denis29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
