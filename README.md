@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Doda-Denis29
 - 👀 I’m interested in Computer Science
+- 🏢 Currently working as an Embedded Software Developer at Aumovio
 - 📫 How to reach me denis.doda2901@gmail.com
 
 <!---
